@@ -10,7 +10,8 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://code.visualstudio.com/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Kaua-Felipe/github-api-interface)
-<!--[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://interface-api-github.netlify.app/)-->
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://clone-twitter-interface.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b6352839-664d-4b72-a83f-46a8b6ee3be6/deploy-status)](https://www.netlify.com/)
 
 </div>
 
@@ -27,7 +28,7 @@
 
 <strong>A proposta do projeto é a seguinte:</strong> Realizar a prática do desenvolvimento web no Front-end com o <a href="https://pt-br.reactjs.org/">ReactJS</a>, fazendo um "clone" da interface do Twitter no tema Dark e responsivo, ou seja, a interface funcionará em qualquer dispositivo. Inicialmente será somente uma página estática sem nehuma interação com links e o restante da página, pois o objetivo não é lucrar com o projeto, servirá somente para documentar minha experiência e o resultado para praticar o Front-end.
 
-<!--<strong>Link do Projeto em tempo real: </strong><a href="https://interface-api-github.netlify.app/">https://interface-api-github.netlify.app/</a>-->
+<strong>Link da Iterface em tempo real: </strong><a href="https://clone-twitter-interface.netlify.app/">https://clone-twitter-interface.netlify.app/</a>
 
 > <h2 id="pre-requisitos">✔️ Pré-requisitos</h2>
 
