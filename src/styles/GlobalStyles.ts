@@ -28,7 +28,7 @@ export default createGlobalStyle`
     --white: #d9d9d9;
     --gray: #7A7A7A;
     --outline: #2F3336;
-    --retweet: #00606B;
+    --retweet: #00C06B;
     --like: #E8265E;
     --twitter: #33A1F2;
     --twitter-dark-hover: #011017;

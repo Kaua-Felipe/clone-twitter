@@ -12,6 +12,7 @@ export const Container = styled.div`
   }
 `
 export const Header = styled.div`
+  background-color: var(--primary);
   z-index: 2;
   position: sticky;
   top: 0;
@@ -79,7 +80,8 @@ const iconCSS = css`
   }
 `
 export const HomeIcon = styled(Home)`
-  ${iconCSS}
+  ${iconCSS};
+  fill: var(--twitter);
 `
 export const SearchIcon = styled(Search)`
   ${iconCSS}

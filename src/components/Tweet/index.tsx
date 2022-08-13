@@ -17,7 +17,13 @@ import {
   LikeIcon, 
 } from "./styles"
 
-const Tweet: React.FC = () => {
+interface Props {
+  totComments: number
+  totRetweets: number
+  totLikes: number
+}
+
+const Tweet: React.FC<Props> = ({ totComments, totRetweets, totLikes }) => {
   return (
     <Container>
       <Retweeted>
@@ -33,20 +39,20 @@ const Tweet: React.FC = () => {
             <Dot />
             <time>27 de jun</time>
           </Header>
-          <Description>Foguete não têm ré :rocket:</Description>
+          <Description>Foguete não têm ré 🚀</Description>
           <ImageContent />
           <Icons>
             <Status>
               <CommentIcon />
-              18
+              {totComments > 999 ? "+999" : totComments}
             </Status>
             <Status>
               <RetweetIcon />
-              18
+              {totRetweets > 999 ? "+999" : totRetweets}
             </Status>
             <Status>
               <LikeIcon />
-              999
+              {totLikes > 999 ? "+999" : totLikes}
             </Status>
           </Icons>
         </Content>
