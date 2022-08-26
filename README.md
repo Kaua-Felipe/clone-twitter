@@ -26,7 +26,7 @@
 
 > <h2 id="sobre">📑Sobre</h2>
 
-<strong>A proposta do projeto é a seguinte:</strong> Realizar a prática do desenvolvimento web no Front-end com o <a href="https://pt-br.reactjs.org/">ReactJS</a>, fazendo um "clone" da interface do Twitter no tema Dark e responsivo, ou seja, a interface funcionará em qualquer dispositivo. Inicialmente será somente uma página estática sem nehuma interação com links e o restante da página, pois o objetivo não é lucrar com o projeto, servirá somente para documentar minha experiência e o resultado para praticar o Front-end.
+<strong>A proposta do projeto é a seguinte:</strong> Realizar a prática do desenvolvimento web no Front-end com o <a href="https://pt-br.reactjs.org/">ReactJS</a>, fazendo um "clone" da interface do Twitter no tema Dark e responsivo, ou seja, a interface funcionará em qualquer dispositivo. Inicialmente será somente uma página estática sem nenhuma interação com links e o restante da página, pois o objetivo não é lucrar com o projeto, servirá somente para documentar minha experiência e o resultado para praticar o Front-end.
 
 <strong>Link da Iterface em tempo real: </strong><a href="https://clone-twitter-interface.netlify.app/">https://clone-twitter-interface.netlify.app/</a>
 
